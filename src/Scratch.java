@@ -16,5 +16,7 @@ public class Scratch {
         // TODO code application logic here
         
         // How is it going?
+        
+        //Quite well
     }
 }
